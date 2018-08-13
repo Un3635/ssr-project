@@ -1,7 +1,7 @@
 import Vue from 'vue'
 // import store from './store';
 import router from './router';
-import App from './app.vue'
+import App from './App.vue'
 
 // 实例 每次请求都会创建新的实例
 
